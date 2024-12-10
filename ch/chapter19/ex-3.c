@@ -1,1 +1,0 @@
-// signed char はint型に変換されるから
