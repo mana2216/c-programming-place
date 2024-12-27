@@ -1,0 +1,1 @@
+// free関数でinfo_arrayの領域を解放した後にinfo_arrayを使っている
